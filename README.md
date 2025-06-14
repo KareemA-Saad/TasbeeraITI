@@ -1,4 +1,4 @@
-# TasbeeraITI 📸
+# TasbeeraITI 🥗
 
 A simple Angular/Vite-based project intended for educational purposes at ITI.
 Tasbeera is a Meal Recommender with a variety of dishes from different cusines 
